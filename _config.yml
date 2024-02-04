@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: StarTrad
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Logiciel de maintient à jour de la traduction francophone communautaire de Star Citizen
 author:
   name:
   email:
@@ -70,9 +70,8 @@ jekyll-archives:
 
 plugins:
   - jekyll-archives
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-paginate
 
 exclude:
@@ -80,27 +79,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-
-# -----------
-# CloudCannon
-
-_select_data:
-  social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
-
-_comments:
-  map: Update the map location and display settings.
-  latitude: Coordinates for the center marker on the map.
-  longitude: Coordinates for the center marker on the map.
-  zoom: The zoom level for the map.
-  pricing_table: Update the information in the pricing tables.
-  highlight: Emphasis the text
-  color: The background colour used in the plan name and call to action.
-  new_window: Open link in new window

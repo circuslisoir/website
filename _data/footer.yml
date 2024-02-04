@@ -1,39 +1,22 @@
-- links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
-  - name: About
-    link: /about/
-  - name: Contact
-    link: /contact/
-- links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
-    new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
-    new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
+# - links:
+  # - name: Login
+  #   link: /
+  #   new_window: true
+  # - name: Sign Up
+  #   link: /
+  #   new_window: true
+  # - name: Docs
+  #   link: /
+  #   new_window: true
+  # - name: Status
+  #   link: /
+  #   new_window: true
+# - links:
+#   - name: Page de téléchargement de la traduction communautaire
+#     link: https://traduction.circuspes.fr/download/
+#     new_window: true
+#     # social_icon: Facebook
+#   - name: Règles et dictionnaire de la traduction
+#     link: https://docs.google.com/spreadsheets/d/11-QfFxzWADXtTB2UnrmzE4RtVySYul8IXsS6PVSx1f8/edit?usp=sharing
+#     # social_icon: Twitter
+#     new_window: true
