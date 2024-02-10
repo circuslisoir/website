@@ -1,7 +1,11 @@
-- name: Download StarTrad 0.9-BETA
-  link: https://startrad.fr/StarTrad_setup_9.0-BETA.exe
+- name: Download StarTrad 0.9.3-BETA
+  link: https://startrad.fr/StarTrad_setup_0.9.3-BETA.exe
   new_window: true
   highlight: true
+- name: Changelog
+  link: /changelog/
+  new_window: false
+  highlight: false
 - name: github
   link: https://github.com/orgs/circuslisoir/repositories
   new_window: true
